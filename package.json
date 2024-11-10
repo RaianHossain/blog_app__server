@@ -7,7 +7,8 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "dev": "nodemon main.js"
+    "dev": "nodemon main.js",
+    "start": "node main.js"
   },
   "author": "",
   "license": "ISC",
